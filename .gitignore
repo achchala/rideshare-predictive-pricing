@@ -1,1 +1,5 @@
-MSCI 446 Project
+# Ignore virtual environment directories
+venv/
+.env/
+# Ignore all CSV files
+*.csv
