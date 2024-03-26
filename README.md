@@ -1,5 +1,6 @@
 # MSCI446 Final Project
 ### Uber Rideshare Predictive Pricing 🚗
+#### Final Notebook: https://colab.research.google.com/drive/1aDEnMt3r6saN5i83sY8X2I3G7I7ZD4DM
 
 *Ella Kennedy, Manjary Muruganandan, Kiranjit Nagra, Aryan Chopra, Achchala Deepan*
 
