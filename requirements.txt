@@ -5,3 +5,7 @@ seaborn
 scikit-learn
 jupyter
 tensorflow
+keras
+graphviz
+xgboost
+
